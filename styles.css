@@ -4,6 +4,8 @@
   padding:0;
 }
 
+/* I like to always set up my css with lines 1 - 5 to make sure it's a clean slate and properly linked to html  */
+
 body{
     display: flex;
     justify-content: center;
@@ -26,6 +28,8 @@ body{
     color:black;
     font-weight: bold;
 }
+
+/* still don't feel super comfortable with grid but it made sense to use it here when I saw how it could move all buttons  */
 
 #keys{
     display:grid;

@@ -38,6 +38,7 @@ function clearScreen(){
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
 //the eval(); function will evaluate the expression, in this case (display.value) and return its value
+//honestly the eval function is so convenient!
 
 function calculate(){
 try {
@@ -54,12 +55,8 @@ try {
 // also known as exceptions. It allows you to execute a block of code and, if an error occurs 
 // within that block, gracefully handle it instead of letting the program crash.
 
+//ironincally enough, I had a coffee chat with someone after submitting this that mentioned how common the try
+// catch statements were for him at work
 
 
 // consider adding a slice with delete button in case user makes a mistake
-
-
-
-
-// git config --global user.name "Angelica Matos"
-// git config --global user.email "angelicamatos255@gmail.com"
